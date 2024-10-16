@@ -45,11 +45,12 @@ Welcome to my GitHub! I'm a highly motivated **ML** and **Python Developer** wit
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karupothula&show_icons=true&locale=en&layout=compact" alt="karupothula" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karupothula&" alt="karupothula" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/karupothul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karupothul" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/karupothula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karupothula/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@niranjankarupothula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@niranjankarupothula" height="30" width="40" /></a>
+<a href="https://twitter.com/karupothul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karupothul" height="30" width="40" /></a>
 </p>
 
 Feel free to explore my projects, and don't hesitate to connect if you're interested in collaborating!
