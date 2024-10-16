@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Karupothula</h1>
 <h3 align="center">Bridging the gap between Frontend and Backend | Python Programmer | Tech Explorer</h3>
 
-Welcome to my GitHub! I'm a highly motivated **ML** and **Python Developer** with a strong foundation in **Machine Learning**, **computational algorithms**, and **Python**. I hold an MSc in Computer Science and have hands-on experience working on various projects, ranging from **data visualization** to **real-time applications**.
+Welcome to my GitHub! I'm a highly motivated **ML** and **Python Developer** with a strong foundation in **Machine Learning**, **computational algorithms**, and **Python**. I hold an **MSc in Computer Science** and have hands-on experience working on various projects, ranging from **data visualization** to **real-time applications**.
 
 - 🌱 I’m currently learning **the skills necessary to become a Full Stack Developer**
 - 🎓 Strong academic and technical background.
